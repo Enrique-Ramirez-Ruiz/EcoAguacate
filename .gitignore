@@ -1,0 +1,26 @@
+# Archivos y carpetas de Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos del SO
+.DS_Store
+
+# Builds y compilación
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Archivos locales
+local.properties
+
+# Seguridad: evitar subir credenciales
+# ⚠️ Esto evita subir cualquier archivo JSON (incluyendo service accounts)
+*.json

@@ -1,0 +1,1 @@
+En esta ubicación debe de existir un archivo json que es el enlace a nuestra api, en otro proyecto se agregara el código de la api
