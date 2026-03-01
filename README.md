@@ -29,8 +29,6 @@ Este proyecto forma parte de una iniciativa para facilitar la toma de decisiones
 - **Firebase** (Auth / Firestore / Storage, según necesidad)
 - **Material Design**
 
-> Si lo deseas, actualizo esta sección con el stack exacto que uses en la app.
-
 ---
 
 ## 📁 Estructura del proyecto (referencial)
@@ -45,10 +43,6 @@ EcoAguacate/
  └── ...
 ```
 
-> 🔒 Las credenciales sensibles han sido excluidas mediante `.gitignore` para proteger el proyecto.
-
----
-
 ## 🚀 Instalación y ejecución
 
 1. **Clonar el repositorio:**
@@ -60,7 +54,7 @@ EcoAguacate/
    - Elegir la carpeta del repositorio
 3. **Sincronizar Gradle**
 4. **Configurar servicios (opcional):**
-   - Colocar tu archivo `serviceAccount.json` o las claves necesarias en una carpeta segura **fuera del repositorio**.
+   - Colocar tu archivo `serviceAccount.json` o las claves necesarias en una carpeta segura.
    - Configurar variables de entorno o rutas locales para el desarrollo.
 
 ---
@@ -70,23 +64,6 @@ EcoAguacate/
 - Probar captura desde cámara y selección desde galería.
 - Validar inferencia de madurez y reporte de posible plaga.
 - Revisar comportamiento sin conexión (si aplica) y con conexión a servicios.
-
----
-
-## 📸 Capturas (opcional)
-
-Crea una carpeta `assets/` en la raíz y agrega imágenes como:
-
-```
-assets/screenshot1.png
-assets/screenshot2.png
-```
-
-Luego insértalas así:
-
-```markdown
-![Pantalla principal](assets/screenshot1.png)
-```
 
 ---
 
@@ -103,17 +80,15 @@ Luego insértalas así:
 
 ## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Puedes abrir un **Issue** o enviar un **Pull Request** siguiendo las buenas prácticas de Git.
+Las contribuciones son bienvenidas. Puedes abrir un **Issue** o enviar un **Pull Request**.
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto se publica con fines académicos. Puedes añadir una licencia como **MIT** o **Apache-2.0**. Si me indicas cuál prefieres, la agrego y creo el archivo `LICENSE`.
+Este proyecto se publica con fines académicos.  
 
 ---
 
-## 👨‍💻 Autor
-
-**Enrique Ramírez Ruiz**  
-Proyecto desarrollado durante la universidad como apoyo a usuarios agrícolas y urbanos en la toma de decisiones relacionadas con el aguacate.
+## 👨‍💻 Nota  
+Proyecto desarrollado durante la universidad como apoyo a usuarios agrícolas y urbanos en la toma de decisiones relacionadas con el aguacate si deseas mejorarlo o aportar algo al proyecto eres bienvenido a realizarlo.
